@@ -1,4 +1,4 @@
-# Magento 2 UBI Payment Gateway
+# Magento 2 Coinqvest Crypto Payments
 
 
 ***[Magento 2 Coinqvest Crypto Payments](https://meetanshi.com/magento-2-coinqvest-crypto-payments.html)*** extension allows customers to pay easily and securely with cryptocurrency during the checkout by integrating Magento 2 store with Coinqvest crypto payment processor.
@@ -42,7 +42,7 @@ Instead of using entered or stored card details in Magento 2 store, Magento 2 Co
 
 • Allow the admin to check the payment details in the sales order view section in the backend
 
-For more information, visit [https://meetanshi.com/magento-2-coinqvest-crypto-payments.html](https://meetanshi.com/magento-2-coinqvest-crypto-payments.html)
+For more information, visit ***[https://meetanshi.com/magento-2-coinqvest-crypto-payments.html](https://meetanshi.com/magento-2-coinqvest-crypto-payments.html)***
 
 
 
